@@ -1,1 +1,2 @@
-# car-racing-p1
+# synchronousBallMovement
+Ball moving synchronously
